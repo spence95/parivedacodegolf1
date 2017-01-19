@@ -14,3 +14,6 @@ Code will first be ran to see if it accomplishes the task, in this case, it has 
 
 The last category is subjective and I will be getting help for that. The other two categories can be easily determined and shown.
 Also, please note that I won't post or email anyone's code without asking permission. No need to worry about public embarrasment.
+
+### Deadline
+We'll make the deadline for this Valentines Day at midnight. Gives us a month. Kind of easy to remember right?
